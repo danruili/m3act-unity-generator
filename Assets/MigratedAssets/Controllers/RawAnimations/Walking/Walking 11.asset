@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: Walking 11
+  m_EditorClassIdentifier: 
+  blendMode: 1
+  Clips:
+  - {fileID: 7400000, guid: 5a731e399bbd10247826fd59676c4a7b, type: 2}
+  - {fileID: 7400000, guid: 0f5367d09ab26b74bb0e1edf17c25d88, type: 2}
+  - {fileID: 7400000, guid: db586963fae16aa47b67cd480c02e928, type: 2}
+  - {fileID: 7400000, guid: 73cca0390b1a0ed429114595256caa92, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  ParameterNames:
+  - 
+  - 
+  - 

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e2aa625be2820b4b8f397b79378711e, type: 3}
+  m_Name: Texting
+  m_EditorClassIdentifier: 
+  Clips: []
+  MixamoBlendTrees:
+  - {fileID: 11400000, guid: cf178152e2f8e6f45b338ccc34275016, type: 2}
+  - {fileID: 11400000, guid: 540d58429859ded479e1ec6f2cc4857f, type: 2}

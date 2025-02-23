@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e2aa625be2820b4b8f397b79378711e, type: 3}
+  m_Name: Fighting
+  m_EditorClassIdentifier: 
+  Clips: []
+  MixamoBlendTrees:
+  - {fileID: 11400000, guid: cf89018671d403c4abc828d1cfc8dec6, type: 2}
+  - {fileID: 11400000, guid: 01133e5f946ba7d4786894526aed5016, type: 2}
+  - {fileID: 11400000, guid: e896dd2f033ddd640b36ebf0d6cf33a8, type: 2}
+  - {fileID: 11400000, guid: b43865f45069c7e4cb64ca28a001a7ac, type: 2}
+  - {fileID: 11400000, guid: 8deea327226ef4c4987c2fd1a8aaa4e2, type: 2}
+  - {fileID: 11400000, guid: 95ce721280359e740811629e1da51c50, type: 2}
+  - {fileID: 11400000, guid: b38fe5cb766066a439cbefc5fd06307c, type: 2}
+  - {fileID: 11400000, guid: 4da45bb3a649e144db3a5e3389d4dda6, type: 2}
+  - {fileID: 11400000, guid: 88c2352d83c6b8a478c49a5d058faa39, type: 2}
+  - {fileID: 11400000, guid: 4f03a8a11b1fe07408f80f002ee20442, type: 2}

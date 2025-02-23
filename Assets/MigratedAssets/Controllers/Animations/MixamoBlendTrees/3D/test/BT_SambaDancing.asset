@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: BT_SambaDancing
+  m_EditorClassIdentifier: 
+  blendMode: 2
+  Clips:
+  - {fileID: 7400000, guid: 19cddb0f80869524fa8166e652ebc97f, type: 2}
+  - {fileID: 7400000, guid: fd3b2a2bde4b44b478cb8370f6fce54f, type: 2}
+  - {fileID: 7400000, guid: 67a16a002ed856049beea09076713891, type: 2}
+  - {fileID: 7400000, guid: 9827a486c60ab7446bbf73f7067f60d3, type: 2}
+  - {fileID: 7400000, guid: 355fe044b101ad04997962e3974addb1, type: 2}
+  - {fileID: 7400000, guid: fb53691550526024f9a0151847e41f65, type: 2}
+  - {fileID: 7400000, guid: 4d07cfc3b5ef2d74e9bdb646e7fab16d, type: 2}
+  - {fileID: 7400000, guid: ec486653048c63f4298fac86f1415346, type: 2}
+  ParameterNames:
+  - 
+  - 
+  - 

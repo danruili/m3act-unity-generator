@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: Talking 3
+  m_EditorClassIdentifier: 
+  blendMode: 2
+  Clips:
+  - {fileID: 7400000, guid: 83aa4a8c4fffc5744a9370041d0a3aa4, type: 2}
+  - {fileID: 7400000, guid: 91a661b2945caa54c98836087c05a401, type: 2}
+  - {fileID: 7400000, guid: d738ab921a6cb3f4d8920bf64121ccb6, type: 2}
+  - {fileID: 7400000, guid: e4c7d57b702edc445be43d2b1bc47fd3, type: 2}
+  - {fileID: 7400000, guid: 6a53dd9b1ba4f0043b1a79f9e988fd52, type: 2}
+  - {fileID: 7400000, guid: 2bdb19c88b508394888f85a688d807f2, type: 2}
+  - {fileID: 7400000, guid: 48a461be16b74a94b8dd1e32bed00b33, type: 2}
+  - {fileID: 7400000, guid: b9c848308316e3f4c918b888b8108d88, type: 2}
+  ParameterNames:
+  - 
+  - 
+  - 

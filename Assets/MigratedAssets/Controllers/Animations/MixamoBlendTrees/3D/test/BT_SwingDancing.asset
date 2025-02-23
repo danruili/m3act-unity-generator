@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: BT_SwingDancing
+  m_EditorClassIdentifier: 
+  blendMode: 2
+  Clips:
+  - {fileID: 7400000, guid: 09c826d27ea727c4e8c2b0d5f2ab426c, type: 2}
+  - {fileID: 7400000, guid: 6b356fb1bfc51da49a34929a83ea81f3, type: 2}
+  - {fileID: 7400000, guid: b1981dd6a1186df43a8f26e2f5df7333, type: 2}
+  - {fileID: 7400000, guid: ea571c5654353fa4e840a9b6adfab0b0, type: 2}
+  - {fileID: 7400000, guid: 38121ea24af5fc646a68076a888f5c3e, type: 2}
+  - {fileID: 7400000, guid: b8ea5710d3f1a824da6b4306e73071a8, type: 2}
+  - {fileID: 7400000, guid: ee12c1c4248603f46a577e4a18b76a6d, type: 2}
+  - {fileID: 7400000, guid: 398ad3c300532634eb6bfa9710a4e283, type: 2}
+  ParameterNames:
+  - 
+  - 
+  - 

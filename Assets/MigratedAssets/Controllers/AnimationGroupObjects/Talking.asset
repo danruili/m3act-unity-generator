@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e2aa625be2820b4b8f397b79378711e, type: 3}
+  m_Name: Talking
+  m_EditorClassIdentifier: 
+  Clips: []
+  MixamoBlendTrees:
+  - {fileID: 11400000, guid: 2bcd2b91dfc93ae4ebe72946b68e2091, type: 2}
+  - {fileID: 11400000, guid: 3f4fe748735c90f40bc6d3dee60ad642, type: 2}
+  - {fileID: 11400000, guid: 5ac41194a9acda14a9780ad6b90c894f, type: 2}
+  - {fileID: 11400000, guid: 14626ab643cd4f344912d5f2cf97cf46, type: 2}
+  - {fileID: 11400000, guid: 8445405d17257254aba918eddc47e175, type: 2}

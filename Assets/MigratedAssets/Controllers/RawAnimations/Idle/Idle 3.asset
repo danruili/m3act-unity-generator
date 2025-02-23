@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: Idle 3
+  m_EditorClassIdentifier: 
+  blendMode: 2
+  Clips:
+  - {fileID: 7400000, guid: 8f99465cfac18f14682912b92a531a7c, type: 2}
+  - {fileID: 7400000, guid: 54a9d52bb71e03a439f5f9b01cc3db94, type: 2}
+  - {fileID: 7400000, guid: bd8f9159b2bf4dc4da65cfd5390a6979, type: 2}
+  - {fileID: 7400000, guid: 5add9218fcdf6c941971de611da86872, type: 2}
+  - {fileID: 7400000, guid: f8cf62bde0dee434a84c2e1c4f613caa, type: 2}
+  - {fileID: 7400000, guid: 7d7a210bd520c68459179edb98396939, type: 2}
+  - {fileID: 7400000, guid: fadfb90761d70a745be9bcb146f4376c, type: 2}
+  - {fileID: 7400000, guid: 15176ba729809524a8356af117e7297f, type: 2}
+  ParameterNames:
+  - 
+  - 
+  - 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: Dance5
+  m_EditorClassIdentifier: 
+  blendMode: 2
+  Clips:
+  - {fileID: 7400000, guid: c4b94d77614510a44bdd49e6b78b90b9, type: 2}
+  - {fileID: 7400000, guid: 234a6264562d83b43b434b4ca575d660, type: 2}
+  - {fileID: 7400000, guid: 30961cf372abc7d4d96a1507a39ba154, type: 2}
+  - {fileID: 7400000, guid: 84b48827e417d8a40ae79fb4660322db, type: 2}
+  - {fileID: 7400000, guid: b8a51e328bb466c42acede820321f2a3, type: 2}
+  - {fileID: 7400000, guid: 0563c882f6f59e1499d9ba22ca572d40, type: 2}
+  - {fileID: 7400000, guid: 5e934e5b8997346459e445225f7a7dc0, type: 2}
+  - {fileID: 7400000, guid: 3308eeeb5fca37f4389d1a32a60ad655, type: 2}
+  ParameterNames:
+  - 
+  - 
+  - 

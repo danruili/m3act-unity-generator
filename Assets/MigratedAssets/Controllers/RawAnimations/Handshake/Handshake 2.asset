@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: Handshake 2
+  m_EditorClassIdentifier: 
+  blendMode: 0
+  Clips:
+  - {fileID: 7400000, guid: b8ad7a914bb84774e8a837d93a9b7c0d, type: 2}
+  - {fileID: 7400000, guid: 8faf67f617cbca94c97c9b4e5ce1696d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  ParameterNames:
+  - 
+  - 
+  - 

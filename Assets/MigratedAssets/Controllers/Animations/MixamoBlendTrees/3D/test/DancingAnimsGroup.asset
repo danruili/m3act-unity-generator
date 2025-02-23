@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e2aa625be2820b4b8f397b79378711e, type: 3}
+  m_Name: DancingAnimsGroup
+  m_EditorClassIdentifier: 
+  Clips: []
+  MixamoBlendTrees:
+  - {fileID: 11400000, guid: dbec393fcfe4d154c9b6b9f41d886a3d, type: 2}
+  - {fileID: 11400000, guid: 47b89d3cb23b26c47973cd256c3bbead, type: 2}
+  - {fileID: 11400000, guid: 5e582e1e853c7854ca25741100c2030b, type: 2}
+  - {fileID: 11400000, guid: f6026bddcf918a34d94db2a201565916, type: 2}
+  - {fileID: 11400000, guid: 2c6fec2003a00b44da0904a7d7ea3f4b, type: 2}
+  - {fileID: 11400000, guid: f2cf585c3204a384eb2d0ada5257a43d, type: 2}
+  - {fileID: 11400000, guid: db17d226deddd354ba9b15cc5376ce51, type: 2}
+  - {fileID: 11400000, guid: 4800c37b3b9787341ba0401734f1a010, type: 2}
+  - {fileID: 11400000, guid: a7e2055edce398b4e8c176581f16d397, type: 2}
+  - {fileID: 11400000, guid: 1ac5e73fcd3df3a4db8625fdea423705, type: 2}
+  - {fileID: 11400000, guid: 90940992d4a63534688b393b800a9173, type: 2}
+  - {fileID: 11400000, guid: 3bffbe04bd39d4d44b7d909960afda28, type: 2}
+  - {fileID: 11400000, guid: 090505e193ed9a340b47ea9c750eead5, type: 2}
+  - {fileID: 11400000, guid: 0c06861845e111e44aceef631c4a382c, type: 2}
+  - {fileID: 11400000, guid: 05320ae7ece29af43a74540c31d7a629, type: 2}
+  - {fileID: 11400000, guid: 671e95bf03a6d2e4c8e3af88ae8fb053, type: 2}
+  - {fileID: 11400000, guid: 63699ee6e017a554386e611fb465e9bb, type: 2}

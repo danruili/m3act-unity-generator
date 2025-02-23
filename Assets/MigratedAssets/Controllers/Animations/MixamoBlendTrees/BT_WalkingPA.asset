@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: BT_WalkingPA
+  m_EditorClassIdentifier: 
+  blendMode: 1
+  Clips:
+  - {fileID: 7400000, guid: 1cd07753d4130774f9b55adfe4055bd2, type: 2}
+  - {fileID: 7400000, guid: a9b9eb8dae7e0574cb0a0fabb559471e, type: 2}
+  - {fileID: 7400000, guid: 322e824a756d2f94fb2c3eb58fdf703f, type: 2}
+  - {fileID: 7400000, guid: 3fb404de2b540074bad3bda66e5762db, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

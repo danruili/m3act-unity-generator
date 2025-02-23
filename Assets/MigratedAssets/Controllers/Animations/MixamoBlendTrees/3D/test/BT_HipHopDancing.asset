@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: BT_HipHopDancing
+  m_EditorClassIdentifier: 
+  blendMode: 1
+  Clips:
+  - {fileID: 7400000, guid: bee4a0c83d0e6ca4294217a8a047a12c, type: 2}
+  - {fileID: 7400000, guid: 1f67fd7c3e9ac624e93362b946a8234a, type: 2}
+  - {fileID: 7400000, guid: 3ffeb76d8c5bfdd429ca260cf48bebf8, type: 2}
+  - {fileID: 7400000, guid: 96d930936ae43394390b28649d54dd11, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  ParameterNames:
+  - 
+  - 
+  - 

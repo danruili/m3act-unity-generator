@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e2aa625be2820b4b8f397b79378711e, type: 3}
+  m_Name: IdleAnimationGroup
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 7400000, guid: 2497c51d3b565224490444914f73fe39, type: 2}
+  - {fileID: 7400000, guid: 4bd9e52995a4a4c41984135d30ad3f0e, type: 2}
+  - {fileID: 7400000, guid: 83f98729d158cbe4bb1ed4bf2d06edbc, type: 2}
+  - {fileID: 7400000, guid: 827d5676e67df4c45baff6767e54060d, type: 2}
+  MixamoBlendTrees:
+  - {fileID: 11400000, guid: 3ce3f7e839221b74ba224645a16d0f0b, type: 2}

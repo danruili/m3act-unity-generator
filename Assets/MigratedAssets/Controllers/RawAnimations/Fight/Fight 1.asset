@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: Fight 1
+  m_EditorClassIdentifier: 
+  blendMode: 2
+  Clips:
+  - {fileID: 7400000, guid: c393af31ffaea224887628184807d473, type: 2}
+  - {fileID: 7400000, guid: 1e9c1e46a88837f46872b6ce8d8ec1a8, type: 2}
+  - {fileID: 7400000, guid: 9fbeda62bcccf2d4da229c952b576e1a, type: 2}
+  - {fileID: 7400000, guid: 12c807884fc35db44ac484bc631d8e70, type: 2}
+  - {fileID: 7400000, guid: 967d93351ab4550438c6c6eb2bed25ef, type: 2}
+  - {fileID: 7400000, guid: 1be27c19813347a4b8f63cfa1d62b0cd, type: 2}
+  - {fileID: 7400000, guid: bdad7ad3099fb9f40be5197b7a086d9f, type: 2}
+  - {fileID: 7400000, guid: 470250dee2f2e674aab1fd52b8fc0ea3, type: 2}
+  ParameterNames:
+  - 
+  - 
+  - 

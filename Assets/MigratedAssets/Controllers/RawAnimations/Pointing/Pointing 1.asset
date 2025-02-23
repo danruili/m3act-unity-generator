@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035d3cda573d16a4bb0087822e42412e, type: 3}
+  m_Name: Pointing 1
+  m_EditorClassIdentifier: 
+  blendMode: 2
+  Clips:
+  - {fileID: 7400000, guid: 0661c36ae6d60344da53f2557eccc5e5, type: 2}
+  - {fileID: 7400000, guid: 90c9f14f67d8a15409bfe60f1e9b2bf5, type: 2}
+  - {fileID: 7400000, guid: 2616414ca0d7fcd4aab1ead5ad45538d, type: 2}
+  - {fileID: 7400000, guid: 16463e0a4db29d74b818fdb299ffdc24, type: 2}
+  - {fileID: 7400000, guid: 4af97f57ec2c0a043a3ad816cf83562b, type: 2}
+  - {fileID: 7400000, guid: 4ce8a8fabf931fa4ba1c8423b88ab26d, type: 2}
+  - {fileID: 7400000, guid: b2263e8b2e302e643a7a1369cb61cb20, type: 2}
+  - {fileID: 7400000, guid: 40a233a969c25f941bdae5c703554c48, type: 2}
+  ParameterNames:
+  - 
+  - 
+  - 

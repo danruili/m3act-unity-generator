@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a7d6f1a40c45a2981a6291f0d03337, type: 3}
+  m_Name: Keypoint3DTemplate
+  m_EditorClassIdentifier: 
+  templateID: 81d38e9f-637c-47be-acf5-5753fc3390e8
+  templateName: Mixamo
+  jointTexture: {fileID: 2800000, guid: e381cbaaf29614168bafc8f7ec5dbfe9, type: 3}
+  skeletonTexture: {fileID: 2800000, guid: e381cbaaf29614168bafc8f7ec5dbfe9, type: 3}
+  keypoints:
+  - label: hips
+    associateToRig: 1
+    rigLabel: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    selfOcclusionDistance: 0.2
+  - label: left_hip
+    associateToRig: 1
+    rigLabel: 1
+    color: {r: 0, g: 1, b: 1, a: 1}
+    selfOcclusionDistance: 0.2
+  - label: right_hip
+    associateToRig: 1
+    rigLabel: 2
+    color: {r: 0, g: 1, b: 0.3647059, a: 1}
+    selfOcclusionDistance: 0.18
+  - label: spine
+    associateToRig: 1
+    rigLabel: 7
+    color: {r: 0.39215687, g: 0.7058824, b: 0.39215687, a: 1}
+    selfOcclusionDistance: 0.2
+  - label: left_knee
+    associateToRig: 1
+    rigLabel: 3
+    color: {r: 0, g: 0.6392157, b: 1, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: right_knee
+    associateToRig: 1
+    rigLabel: 4
+    color: {r: 0, g: 1, b: 0.5882353, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: spine1
+    associateToRig: 1
+    rigLabel: 8
+    color: {r: 0.39215687, g: 0.7058824, b: 0.39215687, a: 1}
+    selfOcclusionDistance: 0.2
+  - label: left_ankle
+    associateToRig: 1
+    rigLabel: 5
+    color: {r: 0, g: 0.29803923, b: 1, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: right_ankle
+    associateToRig: 1
+    rigLabel: 6
+    color: {r: 0, g: 1, b: 0.76862746, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: spine2
+    associateToRig: 1
+    rigLabel: 54
+    color: {r: 0.39215687, g: 0.7058824, b: 0.39215687, a: 1}
+    selfOcclusionDistance: 0.2
+  - label: left_toe_base
+    associateToRig: 1
+    rigLabel: 19
+    color: {r: 0, g: 0.29803923, b: 1, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: right_toe_base
+    associateToRig: 1
+    rigLabel: 20
+    color: {r: 0, g: 1, b: 0.76862746, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: neck
+    associateToRig: 1
+    rigLabel: 9
+    color: {r: 1, g: 0.34117648, b: 0, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: left_shoulder
+    associateToRig: 1
+    rigLabel: 11
+    color: {r: 0.32941177, g: 1, b: 0, a: 1}
+    selfOcclusionDistance: 0.185
+  - label: right_shoulder
+    associateToRig: 1
+    rigLabel: 12
+    color: {r: 1, g: 0.5686275, b: 0, a: 1}
+    selfOcclusionDistance: 0.185
+  - label: head
+    associateToRig: 1
+    rigLabel: 10
+    color: {r: 1, g: 0.34117648, b: 0, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: left_upperarm
+    associateToRig: 1
+    rigLabel: 13
+    color: {r: 0.32941177, g: 1, b: 0, a: 1}
+    selfOcclusionDistance: 0.185
+  - label: right_upperarm
+    associateToRig: 1
+    rigLabel: 14
+    color: {r: 1, g: 0.5686275, b: 0, a: 1}
+    selfOcclusionDistance: 0.185
+  - label: left_elbow
+    associateToRig: 1
+    rigLabel: 15
+    color: {r: 0.050980393, g: 1, b: 0, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: right_elbow
+    associateToRig: 1
+    rigLabel: 16
+    color: {r: 1, g: 0.827451, b: 0, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: left_wrist
+    associateToRig: 1
+    rigLabel: 17
+    color: {r: 0, g: 1, b: 0.16862746, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: right_wrist
+    associateToRig: 1
+    rigLabel: 18
+    color: {r: 0.64705884, g: 1, b: 0, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: head_end
+    associateToRig: 0
+    rigLabel: 0
+    color: {r: 1, g: 0.34117648, b: 0, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: lefttoe_end
+    associateToRig: 0
+    rigLabel: 0
+    color: {r: 0, g: 0.29803923, b: 1, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: righttoe_end
+    associateToRig: 0
+    rigLabel: 0
+    color: {r: 0, g: 1, b: 0.76862746, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: nose
+    associateToRig: 0
+    rigLabel: 0
+    color: {r: 1, g: 0, b: 0, a: 1}
+    selfOcclusionDistance: 0.15
+  - label: left_eye
+    associateToRig: 1
+    rigLabel: 21
+    color: {r: 0.9490196, g: 0, b: 1, a: 1}
+    selfOcclusionDistance: 0.033
+  - label: right_eye
+    associateToRig: 1
+    rigLabel: 22
+    color: {r: 0, g: 0.29803923, b: 1, a: 1}
+    selfOcclusionDistance: 0.033
+  - label: left_ear
+    associateToRig: 0
+    rigLabel: 0
+    color: {r: 1, g: 0, b: 0.11764706, a: 1}
+    selfOcclusionDistance: 0.05
+  - label: right_ear
+    associateToRig: 0
+    rigLabel: 0
+    color: {r: 1, g: 0, b: 0.6039216, a: 1}
+    selfOcclusionDistance: 0.05
+  skeleton:
+  - joint1: 0
+    joint2: 2
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 2
+    joint2: 5
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 5
+    joint2: 8
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 8
+    joint2: 11
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 11
+    joint2: 24
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 0
+    joint2: 1
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 1
+    joint2: 4
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 4
+    joint2: 7
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 7
+    joint2: 10
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 10
+    joint2: 23
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 0
+    joint2: 3
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 3
+    joint2: 6
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 6
+    joint2: 9
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 9
+    joint2: 12
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 12
+    joint2: 15
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 15
+    joint2: 22
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 9
+    joint2: 14
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 14
+    joint2: 17
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 17
+    joint2: 19
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 19
+    joint2: 21
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 9
+    joint2: 13
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 13
+    joint2: 16
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 16
+    joint2: 18
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 18
+    joint2: 20
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 15
+    joint2: 25
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 15
+    joint2: 26
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 15
+    joint2: 27
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 15
+    joint2: 28
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - joint1: 15
+    joint2: 29
+    color: {r: 1, g: 1, b: 1, a: 1}
