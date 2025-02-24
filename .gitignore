@@ -77,3 +77,6 @@ crashlytics-build.properties
 !/[Aa]ssets/[Rr]esources/HDRI/links.csv
 !/[Aa]ssets/[Rr]esources/HDRI/*.meta
 /[Aa]ssets/[Rr]esources/Remove/*
+
+Assets/Characters/Ready/*
+Assets/MigratedAssets/HumanModels/*
