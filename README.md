@@ -1,7 +1,7 @@
 # M3Act Unity Data Generator  
 
-[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://cjerry1243.github.io/M3Act/)  
-[![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://openaccess.thecvf.com/content/CVPR2024/html/Chang_Learning_from_Synthetic_Human_Group_Activities_CVPR_2024_paper.html)  
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://cjerry1243.github.io/M3Act/)
+[![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://openaccess.thecvf.com/content/CVPR2024/html/Chang_Learning_from_Synthetic_Human_Group_Activities_CVPR_2024_paper.html)
 [![arXiv](https://img.shields.io/badge/arXiv-2306.16772-red)](https://arxiv.org/abs/2306.16772)  
 
 This repository provides the Unity project, including core modules and assets, for generating synthetic data with M3Act.  
