@@ -27,20 +27,12 @@ Clone the repo using the following script.
 git clone https://github.com/danruili/m3act-unity-generator.git
 cd m3act-unity-generator
 ```
-Download assets from our shared disk:
-1. Download HDRI maps from [this link](https://drive.google.com/file/d/18V39qWTHnR4CVQfHxt9xvqXdXJ7dCANK/view?usp=sharing) and unzip it at ```Assets/Resources/HDRI```
 
+Download assets from Huggingface Dataset Link:
 ```bash
-unzip HDRI.zip -d Assets/Resources/
+git clone https://huggingface.co/datasets/Rosso987/M3Act-Generator-Assets
 ```
 
-2. Download Human Avatar Part 2 from [this link](https://drive.google.com/file/d/1aIHRbLJ0aedzsln9azpWCU-Bz-HATurK/view?usp=sharing) and unzip it at ```Assets/Characters/Ready```
-```bash
-unzip Ready.zip -d Assets/Characters/Ready/
-```
-
-3. Download Human Avatar Part 2 from [this link](https://drive.google.com/file/d/1A0DzdVs8vBOVZpLCsJxPLvAbJU40A8Fl/view?usp=sharing) and unzip it at ```Assets/MigratedAssets/HumanModels```
-
-```bash
-unzip HumanModels.zip -d Assets/MigratedAssets
-```
+1. Unzip HDRI maps (`HDRI.zip`) at ```Assets/Resources/HDRI```
+2. Unzip Human Avatar Part 1 (`Characters-Ready.zip`) at ```Assets/Characters/Ready```
+3. Unzip Human Avatar Part 2 (`MigratedAssets-HumanModels.zip`) at ```Assets/MigratedAssets/HumanModels```
